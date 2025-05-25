@@ -1,0 +1,169 @@
+
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>RedLine | RP Regelwerk </title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      background: #121212;
+      color: #e0e0e0;
+      margin: 0;
+      padding: 0;
+    }
+    header, section, nav {
+      max-width: 1000px;
+      margin: 20px auto;
+      background: #1e1e1e;
+      padding: 20px;
+      border-radius: 10px;
+      box-shadow: 0 0 10px rgba(255,255,255,0.05);
+    }
+    nav {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      justify-content: center;
+    }
+    nav a {
+      color: #ffffff;
+      background: #333;
+      padding: 10px 15px;
+      border-radius: 5px;
+      text-decoration: none;
+      transition: background 0.3s;
+    }
+    nav a:hover {
+      background: #555;
+    }
+    h1, h2, h3 {
+      color: #ffffff;
+    }
+    ul {
+      padding-left: 20px;
+    }
+    li {
+      margin-bottom: 8px;
+    }
+    .section-title {
+      border-bottom: 2px solid #3498db;
+      padding-bottom: 5px;
+      margin-bottom: 15px;
+    }
+   .logo {
+      display: block;
+      max-width: 200px;
+      margin: 0 auto 20px;
+    }
+    @media (max-width: 600px) {
+      nav {
+        flex-direction: column;
+        align-items: center;
+      }
+    }
+  </style>
+</head>
+<body>
+
+<header>
+<img src="927942cf-587e-4f4d-abee-b69b59b53d6e.png" alt="RL Roleplay Logo" class="logo">
+  <h1>RedLine | RP Regelwerk & Fraktionsregelwerk</h1>
+  <p>Gültig für alle Spieler und Fraktionen des Servers</p>
+</header>
+
+<nav>
+  <a href="#allgemeines">Allgemeines Regelwerk</a>
+  <a href="#fraktionen">Fraktionsregelwerk</a>
+  <a href="#strafen">Strafen & Hinweise</a>
+  <a href="#faq">FAQ</a>
+</nav>
+
+<section id="allgemeines">
+  <h2 class="section-title">Allgemeines Regelwerk</h2>
+  <h3>1. Respekt & Umgang</h3>
+  <ul>
+    <li>Respektvoller Umgang ist Pflicht.</li>
+    <li>Diskriminierung, Beleidigungen etc. sind verboten.</li>
+    <li>Teammitglieder sind zu respektieren.</li>	
+    <Li>Teammitgliedern ist folge zu leisten, egal IC oder im Support.</li>
+  </ul>
+
+  <h3>2. Meta- & Powergaming</h3>
+  <ul>
+    <li>Meta-Gaming und Power-Gaming sind strengstens untersagt und werden mit einem BANN bestraft.</li>
+    <li>Nur RP-relevante Informationen dürfen verwendet werden.</li>
+    <li>
+  </ul>
+
+  <h3>3. Bugs & Exploits</h3>
+  <ul>
+    <li>Bugs dürfen nicht ausgenutzt werden und werden mit einem BANN bestraft.</li>
+    <li>Fehler sind dem Team zu melden.</li>
+  </ul>
+
+  <h3>4. Accounts</h3>
+  <ul>
+    <li>Multi-Accounts und Account-Sharing sind strengstens untersagt.</li>
+  </ul>
+</section>
+
+<section id="fraktionen">
+  <h2 class="section-title">Fraktionsregelwerk</h2>
+  <h3>1. Allgemeine Fraktionsregeln</h3>
+  <ul>
+    <li>Aktivitätspflicht: Jedee Fraktion muss eine gewisse Aktivität an den Tag legen, ansonsten wird die Fraktion aufgelöst.</li>
+    <li>Das wechseln von einer zur anderen Fraktion ist untersagt, dazwischen müssen 48H liegen.</li>
+    <li>Regeln und Anweisungen der Fraktionsverwaltung müssen folge geleistet werden.</li>
+  </ul>
+
+  <h3>2. Staatliche Fraktionen</h3>
+  <ul>
+    <li>Dienstwaffeneinsatz nur bei Gefahr im Verzug und mit Eskalationsstufen.</li>
+    <li>RP bei Festnahmen und Durchsuchungen ist Pflicht.</li>
+    <li>Korruption ist strengstens untersagt und wird mit einem BANN bestraft.</li>
+  </ul>
+
+  <h3>3. Medizinische Fraktionen</h3>
+  <ul>
+    <li>Realistische Behandlungen.</li>
+    <li>Keine Waffen, keine Teilnahme an Kämpfen.</li>
+    <li>Wiederbelebung nur bei RP-Begründung (z. B. kein Kopfschuss).</li>
+  </ul>
+
+  <h3>4. Legale Fraktionen</h3>
+  <ul>
+    <li>Der Job darf keinsterweiße ausgenutzt werden.</li>
+    <li>Keine Abzocke oder Willkür gegenüber Kunden.</li>
+  </ul>
+
+  <h3>5. Illegale Fraktionen</h3>
+  <ul>
+    <li>Struktur, Planung und gutes RP sind Voraussetzung.</li>
+    <li>Raub, Entführungen etc. nur mit gutem RP.</li>
+    <li>Krieg darf nur mit begründung gestartet werden, z.b. Routen Kampf und muss der Fraktionsverwaltung mitgeteilt werden.</li>
+  </ul>
+</section>
+
+<section id="strafen">
+  <h2 class="section-title">Strafen & Hinweise</h2>
+  <ul>
+    <li>Hinweiß: Die Strafen können von dem Team aus verändert und anderst geahndet werden.</li>
+    <li>Bei groben oder wiederholten Verstößen: BANN.</li>
+    <li>Fraktionsleitung ist es verpflichtet uf unseren Frakleader Discord beizutreten.</li>
+  </ul>
+</section>
+
+<section id="faq">
+  <h2 class="section-title">FAQ – Häufige Fragen</h2>
+  <ul>
+    <li><strong>Was ist Meta-Gaming?</strong> Nutzung von OOC-Infos im RP – z. B. über Discord erlangte Pläne im RP anwenden.</li>
+    <li><strong>Darf ich einfach töten?</strong> Nur bei echtem RP-Grund, mit Vorwarnung oder im Rahmen eines Konflikts.</li>
+    <li><strong>Wie verhalte ich mich als EMS?</strong> Neutral bleiben, behandeln, kein RP stören oder Gewalt anwenden.</li>
+  </ul>
+</section>
+
+</body>
+</html>
